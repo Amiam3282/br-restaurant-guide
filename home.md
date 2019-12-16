@@ -1,6 +1,7 @@
 # Bay Ridge Restaurant Guide
-## Home
+## Asian
 ---
 What kind of food are you hungry for?
-## [American](american/american.md)
-## Asian
+## [Chinese](chinese.md)
+## Japanese
+## Thai
